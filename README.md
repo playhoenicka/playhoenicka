@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://playhoenicka.github.io/">PlayHoenicka</a></h1>
+<h1 align="center"><a href="playhoenix/playhoenicka.github.io/">PlayHoenix</a></h1>
 
 <h4 align="center">Open source video game page 🔓</h4>
 
